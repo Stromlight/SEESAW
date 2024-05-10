@@ -53,6 +53,8 @@ Please also cite the following paper if you run **POLITICS** as your backbone mo
     pages = "1354--1374",
 }
 ```
+to better result i think political history of united state with war of independence should be added
+ideology of america shaping on thix time after.
 
 ## Contact
 If you have any question, please contact Xinliang Frederick Zhang ```<xlfzhang@umich.edu>``` or create a Github issue.
